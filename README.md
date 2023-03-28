@@ -16,12 +16,14 @@ Projetos e resumos das matérias do curso de Sistemas de Informação da UFU
 
 ## 4º Periodo 
 [Banco de Dados 1 (BD1)](https://github.com/Ellen172/UFU-BD1) | [Trabalho Final](https://github.com/Ellen172/UFU-BD1-TrabalhoFinal) <br/>
-[Programação para Internet (PPI)](https://github.com/Ellen172/UFU-PPI) <br/>
+[Programação para Internet (PPI)](https://github.com/Ellen172/UFU-PPI) | [Trabalho Final](https://github.com/Ellen172/UFU-PPI-TrabalhoFinal) <br/>
 [Programação Orientada à Objetos 2 (POO2)](https://github.com/Ellen172/UFU-POO2) <br/>
 [Sistemas Operacionais (SO)](https://github.com/Ellen172/UFU-SO) <br/>
 
 ## 5º Periodo
 [Banco de Dados 2 (BD2)](https://github.com/Ellen172/UFU-BD2) <br/>
+[Organização e Recuperação da informação](https://github.com/Ellen172/UFU-ORI) <br/>
+[Modelagem de Software](https://github.com/Ellen172/UFU-MS) <br/>
 
 ## Extras
 [MiniCurso Python](https://github.com/Ellen172/UFU-Python) <br/>
