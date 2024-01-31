@@ -25,6 +25,10 @@ Projetos e resumos das matérias do curso de Sistemas de Informação da UFU
 [Organização e Recuperação da informação](https://github.com/Ellen172/UFU-ORI) <br/>
 [Modelagem de Software](https://github.com/Ellen172/UFU-MS) <br/>
 
+## 8º Periodo
+[Auditoria e Segurança da Informação (ASI)](https://github.com/Ellen172/UFU-ASI) <br>
+
 ## Extras
 [MiniCurso Python](https://github.com/Ellen172/UFU-Python) <br/>
 [Inteligência Artificial (IA)](https://github.com/Ellen172/UFU-IA) <br/>
+[Computação BioInspirada (CompBio)](https://github.com/Ellen172/UFU-CompBio) <br>
