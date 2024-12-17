@@ -32,3 +32,5 @@ Projetos e resumos das matérias do curso de Sistemas de Informação da UFU
 [MiniCurso Python](https://github.com/Ellen172/UFU-Python) <br/>
 [Inteligência Artificial (IA)](https://github.com/Ellen172/UFU-IA) <br/>
 [Computação BioInspirada (CompBio)](https://github.com/Ellen172/UFU-CompBio) <br>
+[Programação para Dispositivos Móveis](https://github.com/Ellen172/UFU-ProgDispMoveis) <br>
+
